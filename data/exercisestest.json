@@ -119,6 +119,123 @@
 
     {"name": "Banded Streamline Press", "muscle_group": "Shoulders", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
     {"name": "Streamline Hold", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s", "sets": 3}
-  ]
+  ],
+  "core": [
+    {"name": "Plank", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s", "sets": 3},
+    {"name": "Side Plank", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s/side", "sets": 3},
+    {"name": "Dead Bug", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Control", "reps": "8-12/side", "sets": 3},
+    {"name": "Bird Dog", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Control", "reps": "8-12/side", "sets": 3},
+    {"name": "Glute Bridge", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Hollow Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "10-30s", "sets": 3},
+    {"name": "Hollow Rocks", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "V-Up", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Crunch", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Reverse Crunch", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+
+    {"name": "Leg Raise", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Hanging Knee Raise", "muscle_group": "Core", "equipment": "Pull-Up Bar", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Hanging Leg Raise", "muscle_group": "Core", "equipment": "Pull-Up Bar", "difficulty": "Advanced", "type": "Strength", "reps": "6-10", "sets": 3},
+    {"name": "Toes-to-Bar", "muscle_group": "Core", "equipment": "Pull-Up Bar", "difficulty": "Advanced", "type": "Strength", "reps": "4-10", "sets": 3},
+
+    {"name": "Russian Twist", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Rotation", "reps": "20-30", "sets": 3},
+    {"name": "Weighted Russian Twist", "muscle_group": "Core", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Rotation", "reps": "12-20", "sets": 3},
+    {"name": "Oblique Crunch", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Rotation", "reps": "12-20/side", "sets": 3},
+    {"name": "Side V-Up", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Rotation", "reps": "10-15/side", "sets": 3},
+
+    {"name": "Flutter Kicks", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Endurance", "reps": "20-40s", "sets": 3},
+    {"name": "Scissor Kicks", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Endurance", "reps": "20-40s", "sets": 3},
+    {"name": "Swimmer Kicks", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Superman", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "10-20", "sets": 3},
+    {"name": "Superman Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "10-30s", "sets": 3},
+
+    {"name": "Back Extension", "muscle_group": "Core", "equipment": "Bench", "difficulty": "Beginner", "type": "Back", "reps": "10-20", "sets": 3},
+    {"name": "Reverse Back Extension", "muscle_group": "Core", "equipment": "Bench", "difficulty": "Intermediate", "type": "Back", "reps": "8-15", "sets": 3},
+
+    {"name": "Mountain Climbers", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Cardio", "reps": "20-40s", "sets": 3},
+    {"name": "High Knees", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Cardio", "reps": "20-40s", "sets": 3},
+
+    {"name": "Plank Walkouts", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Inchworm", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "6-12", "sets": 3},
+
+    {"name": "Suitcase Carry", "muscle_group": "Core", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Anti-Rotation", "reps": "20-40s/side", "sets": 3},
+    {"name": "Farmer Carry", "muscle_group": "Core", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Anti-Rotation", "reps": "20-40s", "sets": 3},
+
+    {"name": "Plank Shoulder Tap", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Anti-Rotation", "reps": "10-20/side", "sets": 3},
+    {"name": "Side Plank Hip Lift", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "10-20", "sets": 3},
+
+    {"name": "Rollouts", "muscle_group": "Core", "equipment": "Ab Wheel", "difficulty": "Advanced", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Stability Ball Rollout", "muscle_group": "Core", "equipment": "Stability Ball", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Stability Ball Stir-the-Pot", "muscle_group": "Core", "equipment": "Stability Ball", "difficulty": "Advanced", "type": "Control", "reps": "10-20", "sets": 3},
+
+    {"name": "Cable Woodchopper", "muscle_group": "Core", "equipment": "Cable Machine", "difficulty": "Intermediate", "type": "Rotation", "reps": "10-15", "sets": 3},
+    {"name": "Low-to-High Chop", "muscle_group": "Core", "equipment": "Cable Machine", "difficulty": "Intermediate", "type": "Rotation", "reps": "10-15", "sets": 3},
+    {"name": "High-to-Low Chop", "muscle_group": "Core", "equipment": "Cable Machine", "difficulty": "Intermediate", "type": "Rotation", "reps": "10-15", "sets": 3},
+
+    {"name": "Pallof Press", "muscle_group": "Core", "equipment": "Cable Machine", "difficulty": "Intermediate", "type": "Anti-Rotation", "reps": "10-15", "sets": 3},
+    {"name": "Pallof Hold", "muscle_group": "Core", "equipment": "Cable Machine", "difficulty": "Intermediate", "type": "Anti-Rotation", "reps": "10-20s", "sets": 3},
+
+    {"name": "Box Plank", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Kick Set Core Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Streamline Flutter Kick", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Streamline Sit-Up", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Swimming", "reps": "8-15", "sets": 3},
+    {"name": "Streamline Leg Lift", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Swimming", "reps": "8-12", "sets": 3},
+    {"name": "Streamline Roll", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Swimming", "reps": "10-20", "sets": 3},
+
+    {"name": "Hip Lift", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Hip Circles", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Control", "reps": "10-20", "sets": 3},
+    {"name": "Windshield Wipers", "muscle_group": "Core", "equipment": "Pull-Up Bar", "difficulty": "Advanced", "type": "Rotation", "reps": "6-10", "sets": 3},
+    {"name": "Floor Windshield Wipers", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Rotation", "reps": "10-15", "sets": 3},
+
+    {"name": "Boat Pose", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Control", "reps": "20-40s", "sets": 3},
+    {"name": "Boat Rocks", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Control", "reps": "10-20", "sets": 3},
+
+    {"name": "Seated Knee Tucks", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "L-Sit Hold", "muscle_group": "Core", "equipment": "Parallel Bars", "difficulty": "Advanced", "type": "Strength", "reps": "5-20s", "sets": 3},
+    {"name": "L-Sit Kick", "muscle_group": "Core", "equipment": "Parallel Bars", "difficulty": "Advanced", "type": "Strength", "reps": "6-12", "sets": 3},
+
+    {"name": "Wall Sit Hold", "muscle_group": "Core", "equipment": "Wall", "difficulty": "Beginner", "type": "Endurance", "reps": "20-40s", "sets": 3},
+    {"name": "Wall Plank", "muscle_group": "Core", "equipment": "Wall", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s", "sets": 3},
+
+    {"name": "Sphinx Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "20-40s", "sets": 3},
+    {"name": "Bridge March", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-12/side", "sets": 3},
+
+    {"name": "Plank Reach", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Anti-Rotation", "reps": "8-12", "sets": 3},
+    {"name": "Long Lever Plank", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "10-30s", "sets": 3},
+
+    {"name": "Hip Flexor Pulse", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Swimming", "reps": "12-20", "sets": 3},
+    {"name": "Kickboard Crunch", "muscle_group": "Core", "equipment": "Kickboard", "difficulty": "Beginner", "type": "Swimming", "reps": "10-20", "sets": 3},
+    {"name": "Kickboard Press Hold", "muscle_group": "Core", "equipment": "Kickboard", "difficulty": "Intermediate", "type": "Swimming", "reps": "20-40s", "sets": 3},
+
+    {"name": "Decline Sit-Up", "muscle_group": "Core", "equipment": "Bench", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Decline Twist Sit-Up", "muscle_group": "Core", "equipment": "Bench", "difficulty": "Intermediate", "type": "Rotation", "reps": "8-15", "sets": 3},
+    {"name": "Weighted Sit-Up", "muscle_group": "Core", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+
+    {"name": "KB Dead Bug", "muscle_group": "Core", "equipment": "Kettlebell", "difficulty": "Intermediate", "type": "Control", "reps": "8-12", "sets": 3},
+    {"name": "KB March", "muscle_group": "Core", "equipment": "Kettlebell", "difficulty": "Intermediate", "type": "Anti-Rotation", "reps": "20-40s", "sets": 3},
+    {"name": "KB Windmill", "muscle_group": "Core", "equipment": "Kettlebell", "difficulty": "Advanced", "type": "Rotation", "reps": "6-10/side", "sets": 3},
+
+    {"name": "Swiss Ball Pike", "muscle_group": "Core", "equipment": "Stability Ball", "difficulty": "Advanced", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Swiss Ball Knee Tuck", "muscle_group": "Core", "equipment": "Stability Ball", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+
+    {"name": "Box Hollow Hold", "muscle_group": "Core", "equipment": "Box", "difficulty": "Intermediate", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Box Streamline Kick", "muscle_group": "Core", "equipment": "Box", "difficulty": "Intermediate", "type": "Swimming", "reps": "20-40s", "sets": 3},
+
+    {"name": "Pelvic Tilt Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Control", "reps": "20-40s", "sets": 3},
+
+    {"name": "Heel Tap Crunch", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Toe Reach", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+
+    {"name": "Bear Crawl Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Control", "reps": "20-40s", "sets": 3},
+    {"name": "Bear Crawl Walk", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Control", "reps": "20-40s", "sets": 3},
+
+    {"name": "Copenhagen Plank", "muscle_group": "Core", "equipment": "Bench", "difficulty": "Advanced", "type": "Strength", "reps": "10-20s/side", "sets": 3},
+    {"name": "Mini Copenhagen Plank", "muscle_group": "Core", "equipment": "Bench", "difficulty": "Intermediate", "type": "Strength", "reps": "20-40s/side", "sets": 3},
+
+    {"name": "Bridge Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "20-40s", "sets": 3},
+    {"name": "Hip Extension Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "20-40s", "sets": 3}
+  ],
+  
+  
+
   
 }

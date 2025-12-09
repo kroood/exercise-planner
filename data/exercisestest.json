@@ -234,6 +234,96 @@
     {"name": "Bridge Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "20-40s", "sets": 3},
     {"name": "Hip Extension Hold", "muscle_group": "Core", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Back", "reps": "20-40s", "sets": 3}
   ],
+  "lower_body": [
+    {"name": "Bodyweight Squat", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "Goblet Squat", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Back Squat", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "5-10", "sets": 3},
+    {"name": "Front Squat", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "5-10", "sets": 3},
+    {"name": "Overhead Squat", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Advanced", "type": "Strength", "reps": "3-8", "sets": 3},
+
+    {"name": "Jump Squat", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Power", "reps": "6-12", "sets": 3},
+    {"name": "Tuck Jump", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Power", "reps": "6-10", "sets": 3},
+    {"name": "Box Jump", "muscle_group": "Legs", "equipment": "Box", "difficulty": "Intermediate", "type": "Power", "reps": "5-10", "sets": 3},
+
+    {"name": "Lunge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-15/side", "sets": 3},
+    {"name": "Walking Lunge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-20/side", "sets": 3},
+    {"name": "Reverse Lunge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-15/side", "sets": 3},
+    {"name": "Dumbbell Lunge", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12/side", "sets": 3},
+    {"name": "Barbell Lunge", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12/side", "sets": 3},
+
+    {"name": "Split Squat", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-15/side", "sets": 3},
+    {"name": "Bulgarian Split Squat", "muscle_group": "Legs", "equipment": "Bench", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12/side", "sets": 3},
+    {"name": "Dumbbell Split Squat", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12/side", "sets": 3},
+
+    {"name": "Step-Up", "muscle_group": "Legs", "equipment": "Bench", "difficulty": "Beginner", "type": "Strength", "reps": "8-15/side", "sets": 3},
+    {"name": "Weighted Step-Up", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12/side", "sets": 3},
+
+    {"name": "Calf Raise", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "15-25", "sets": 3},
+    {"name": "Standing Calf Raise", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Seated Calf Raise", "muscle_group": "Legs", "equipment": "Machine", "difficulty": "Intermediate", "type": "Strength", "reps": "12-20", "sets": 3},
+
+    {"name": "Glute Bridge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Hip Thrust", "muscle_group": "Legs", "equipment": "Bench", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Barbell Hip Thrust", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+
+    {"name": "Nordic Hamstring Curl", "muscle_group": "Legs", "equipment": "Partner", "difficulty": "Advanced", "type": "Strength", "reps": "4-8", "sets": 3},
+    {"name": "Hamstring Curl", "muscle_group": "Legs", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "Swiss Ball Hamstring Curl", "muscle_group": "Legs", "equipment": "Stability Ball", "difficulty": "Intermediate", "type": "Strength", "reps": "10-20", "sets": 3},
+
+    {"name": "Good Morning", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Romanian Deadlift", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Dumbbell RDL", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
+
+    {"name": "Deadlift", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "3-8", "sets": 3},
+    {"name": "Sumo Deadlift", "muscle_group": "Legs", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "3-8", "sets": 3},
+
+    {"name": "Wall Sit", "muscle_group": "Legs", "equipment": "Wall", "difficulty": "Beginner", "type": "Endurance", "reps": "20-60s", "sets": 3},
+    {"name": "Isometric Squat Hold", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Endurance", "reps": "20-40s", "sets": 3},
+
+    {"name": "Skater Jump", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Power", "reps": "10-20", "sets": 3},
+    {"name": "Broad Jump", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Power", "reps": "5-10", "sets": 3},
+
+    {"name": "Lateral Lunge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12/side", "sets": 3},
+    {"name": "Curtsy Lunge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-15/side", "sets": 3},
+    {"name": "Cossack Squat", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Advanced", "type": "Strength", "reps": "6-12/side", "sets": 3},
+
+    {"name": "Single-Leg RDL", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12/side", "sets": 3},
+    {"name": "Dumbbell Single-Leg RDL", "muscle_group": "Legs", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12/side", "sets": 3},
+
+    {"name": "Banded Side Walk", "muscle_group": "Legs", "equipment": "Resistance Band", "difficulty": "Beginner", "type": "Glutes", "reps": "10-20/side", "sets": 3},
+    {"name": "Banded Monster Walk", "muscle_group": "Legs", "equipment": "Resistance Band", "difficulty": "Beginner", "type": "Glutes", "reps": "10-20", "sets": 3},
+    {"name": "Banded Squat", "muscle_group": "Legs", "equipment": "Resistance Band", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+
+    {"name": "Reverse Sled Drag", "muscle_group": "Legs", "equipment": "Sled", "difficulty": "Intermediate", "type": "Strength", "reps": "20-40m", "sets": 3},
+    {"name": "Forward Sled Push", "muscle_group": "Legs", "equipment": "Sled", "difficulty": "Intermediate", "type": "Strength", "reps": "20-40m", "sets": 3},
+
+    {"name": "Swimming Kick Squat Hold", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Streamline Squat Jump", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Swimming", "reps": "6-12", "sets": 3},
+    {"name": "Streamline Wall Sit", "muscle_group": "Legs", "equipment": "Wall", "difficulty": "Beginner", "type": "Swimming", "reps": "20-40s", "sets": 3},
+    {"name": "Kick Set Wall Hold", "muscle_group": "Legs", "equipment": "Wall", "difficulty": "Intermediate", "type": "Swimming", "reps": "20-40s", "sets": 3},
+
+    {"name": "Ankle Jump Series", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Power", "reps": "20-40", "sets": 3},
+    {"name": "Pogo Jumps", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Power", "reps": "20-40", "sets": 3},
+
+    {"name": "Machine Leg Extension", "muscle_group": "Legs", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "Machine Leg Press", "muscle_group": "Legs", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+
+    {"name": "Knee Drive Hold", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Control", "reps": "10-20s/side", "sets": 3},
+    {"name": "Marching Bridge", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Glutes", "reps": "8-15/side", "sets": 3},
+
+    {"name": "Isometric Lunge Hold", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Endurance", "reps": "20-40s/side", "sets": 3},
+
+    {"name": "Box Step-Off Jump", "muscle_group": "Legs", "equipment": "Box", "difficulty": "Intermediate", "type": "Power", "reps": "6-10", "sets": 3},
+    {"name": "Depth Jump", "muscle_group": "Legs", "equipment": "Box", "difficulty": "Advanced", "type": "Power", "reps": "3-8", "sets": 3},
+
+    {"name": "Single-Leg Box Squat", "muscle_group": "Legs", "equipment": "Box", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12/side", "sets": 3},
+    {"name": "Single-Leg Hip Thrust", "muscle_group": "Legs", "equipment": "Bench", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15/side", "sets": 3},
+
+    {"name": "Heel Raise Hold", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-20s", "sets": 3},
+    {"name": "Toe Walk", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s", "sets": 3},
+    {"name": "Heel Walk", "muscle_group": "Legs", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s", "sets": 3}
+  ]
+
   
   
 

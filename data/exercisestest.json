@@ -1,329 +1,124 @@
 {
   "upper_body": [
     {"name": "Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
-    {"name": "Dumbbell Bench Press", "muscle_group": "Chest", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
-    {"name": "Incline Bench Press", "muscle_group": "Chest", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 4},
 
-    {"name": "Pull-Up", "muscle_group": "Back", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
-    {"name": "Lat Pulldown", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
-    {"name": "Bent-Over Barbell Row", "muscle_group": "Back", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 4},
+    {"name": "Wide Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+    {"name": "Diamond Push-Up", "muscle_group": "Triceps", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Decline Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Incline Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "Archer Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Advanced", "type": "Strength", "reps": "4-8", "sets": 3},
+    {"name": "Hand-Release Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Pike Push-Up", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Handstand Hold Wall", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Advanced", "type": "Strength", "reps": "20-40s", "sets": 3},
+    {"name": "Handstand Push-Up Wall", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Advanced", "type": "Strength", "reps": "3-8", "sets": 3},
 
-    {"name": "Lateral Raises", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
-    {"name": "Overhead Press", "muscle_group": "Shoulders", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 4},
+    {"name": "Dips", "muscle_group": "Chest", "equipment": "Bars", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 3},
+    {"name": "Bench Dip", "muscle_group": "Triceps", "equipment": "Bench", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+
+    {"name": "Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Intermediate", "type": "Strength", "reps": "4-10", "sets": 3},
+    {"name": "Chin-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Intermediate", "type": "Strength", "reps": "5-10", "sets": 3},
+    {"name": "Neutral Grip Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Intermediate", "type": "Strength", "reps": "4-10", "sets": 3},
+    {"name": "Paused Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Advanced", "type": "Strength", "reps": "3-8", "sets": 3},
+    {"name": "Explosive Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Advanced", "type": "Explosive", "reps": "3-6", "sets": 3},
+
+    {"name": "Band Assisted Pull-Up", "muscle_group": "Back", "equipment": "Bands", "difficulty": "Beginner", "type": "Strength", "reps": "6-12", "sets": 3},
+
+    {"name": "Lat Pulldown", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Close Grip Pulldown", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Straight Arm Pulldown", "muscle_group": "Back", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+
+    {"name": "Dumbbell Row", "muscle_group": "Back", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Kroc Row", "muscle_group": "Back", "equipment": "Dumbbells", "difficulty": "Advanced", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "Bent Over Barbell Row", "muscle_group": "Back", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 3},
+    {"name": "Chest Supported Row", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+
+    {"name": "Inverted Row", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
+
+    {"name": "Face Pull", "muscle_group": "Shoulders", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Band Pull-Apart", "muscle_group": "Shoulders", "equipment": "Bands", "difficulty": "Beginner", "type": "Strength", "reps": "15-25", "sets": 3},
+    {"name": "Reverse Fly", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
+
+    {"name": "Shoulder Press", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 3},
+    {"name": "Barbell Overhead Press", "muscle_group": "Shoulders", "equipment": "Barbell", "difficulty": "Advanced", "type": "Strength", "reps": "5-8", "sets": 3},
     {"name": "Arnold Press", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
 
+    {"name": "Lateral Raise", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
+    {"name": "Front Raise", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+    {"name": "Y Raise", "muscle_group": "Shoulders", "equipment": "Bands", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+
     {"name": "Bicep Curl", "muscle_group": "Biceps", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
-    {"name": "Hammer Curl", "muscle_group": "Biceps", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
-    {"name": "Barbell Curl", "muscle_group": "Biceps", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
-
-    {"name": "Tricep Rope Pushdown", "muscle_group": "Triceps", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
-    {"name": "Tricep Dips", "muscle_group": "Triceps", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
-    {"name": "Skull Crushers", "muscle_group": "Triceps", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
-
-    {"name": "Chest Fly", "muscle_group": "Chest", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
-    {"name": "Machine Chest Press", "muscle_group": "Chest", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
-    {"name": "T-Bar Row", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
-    {"name": "Seated Cable Row", "muscle_group": "Back", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
-    {"name": "Face Pull", "muscle_group": "Shoulders", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
-
-    {"name": "Single Arm Dumbbell Row", "muscle_group": "Back", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
-    {"name": "Inverted Row", "muscle_group": "Back", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
-    {"name": "Chest Dips", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "8-15", "sets": 3},
-    {"name": "Decline Bench Press", "muscle_group": "Chest", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 4},
-    {"name": "Cable Chest Fly", "muscle_group": "Chest", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
-
-    {"name": "Zottman Curl", "muscle_group": "Biceps", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
-    {"name": "Reverse Curl", "muscle_group": "Biceps", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "10-12", "sets": 3},
-    {"name": "Close-Grip Bench Press", "muscle_group": "Triceps", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 3},
-
-    {"name": "Shrugs", "muscle_group": "Traps", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
-    {"name": "Barbell Shrugs", "muscle_group": "Traps", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "10-15", "sets": 3},
-    {"name": "Rear Delt Fly", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
-    {"name": "Cable Rear Delt Fly", "muscle_group": "Shoulders", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
-    {"name": "Machine Shoulder Press", "muscle_group": "Shoulders", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
-
-    {"name": "JM Press", "muscle_group": "Triceps", "equipment": "Barbell", "difficulty": "Advanced", "type": "Strength", "reps": "6-10", "sets": 3},
-    {"name": "Cable Kickback", "muscle_group": "Triceps", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "12-15", "sets": 3},
-    {"name": "Machine Bicep Curl", "muscle_group": "Biceps", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
-    {"name": "Incline Dumbbell Curl", "muscle_group": "Biceps", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Hammer Curl", "muscle_group": "Biceps", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Barbell Curl", "muscle_group": "Biceps", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 3},
     {"name": "Cable Curl", "muscle_group": "Biceps", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
 
-    {"name": "Pendlay Row", "muscle_group": "Back", "equipment": "Barbell", "difficulty": "Advanced", "type": "Strength", "reps": "6-10", "sets": 4},
-    {"name": "Meadows Row", "muscle_group": "Back", "equipment": "Barbell", "difficulty": "Advanced", "type": "Strength", "reps": "8-12", "sets": 3},
-    {"name": "Seal Row", "muscle_group": "Back", "equipment": "Barbell", "difficulty": "Advanced", "type": "Strength", "reps": "6-12", "sets": 3},
-    {"name": "Chest Supported Row", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Intermediate", "type": "Strength", "reps": "10-12", "sets": 3},
-  "legs": [
-      {
-          "name": "Squat",
-          "muscle_group": "Quads",
-          "equipment": "Barbell",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "6-10",
-          "sets": 4
-      },
-      {
-          "name": "Leg Press",
-          "muscle_group": "Quads",
-          "equipment": "Machine",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "10-12",
-          "sets": 3
-      },
-      {
-          "name": "Lunges",
-          "muscle_group": "Quads/Glutes",
-          "equipment": "Dumbbells",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "10-12 each leg",
-          "sets": 3
-      },
-      {
-          "name": "Bulgarian Split Squat",
-          "muscle_group": "Quads/Glutes",
-          "equipment": "Dumbbells",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "8-12",
-          "sets": 3
-      },
-      {
-          "name": "Deadlift",
-          "muscle_group": "Hamstrings/Back",
-          "equipment": "Barbell",
-          "difficulty": "Advanced",
-          "type": "Strength",
-          "reps": "5-8",
-          "sets": 4
-      },
-      {
-          "name": "Romanian Deadlift",
-          "muscle_group": "Hamstrings",
-          "equipment": "Barbell",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "8-12",
-          "sets": 3
-      },
-      {
-          "name": "Leg Curl",
-          "muscle_group": "Hamstrings",
-          "equipment": "Machine",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "10-15",
-          "sets": 3
-      },
-      {
-          "name": "Hip Thrust",
-          "muscle_group": "Glutes",
-          "equipment": "Barbell",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "6-12",
-          "sets": 4
-      },
-      {
-          "name": "Glute Bridge",
-          "muscle_group": "Glutes",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "12-20",
-          "sets": 3
-      },
-      {
-          "name": "Calf Raises",
-          "muscle_group": "Calves",
-          "equipment": "Machine",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "12-20",
-          "sets": 3
-      },
-      {
-          "name": "Standing Calf Raise",
-          "muscle_group": "Calves",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "15-25",
-          "sets": 3
-      },
-      {
-          "name": "Sumo Deadlift",
-          "muscle_group": "Glutes/Hamstrings",
-          "equipment": "Barbell",
-          "difficulty": "Advanced",
-          "type": "Strength",
-          "reps": "5-8",
-          "sets": 4
-      },
-      {
-          "name": "Front Squat",
-          "muscle_group": "Quads",
-          "equipment": "Barbell",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "6-10",
-          "sets": 4
-      },
-      {
-          "name": "Goblet Squat",
-          "muscle_group": "Quads",
-          "equipment": "Dumbbells",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "10-15",
-          "sets": 3
-      },
-      {
-          "name": "Step-Ups",
-          "muscle_group": "Glutes/Quads",
-          "equipment": "Dumbbells",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "10-12 each leg",
-          "sets": 3
-      }
-  ],
-  "core": [
-      {
-          "name": "Plank",
-          "muscle_group": "Core",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Stability",
-          "reps": "30-60 sec",
-          "sets": 3
-      },
-      {
-          "name": "Crunches",
-          "muscle_group": "Abs",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "15-20",
-          "sets": 3
-      },
-      {
-          "name": "Bicycle Crunch",
-          "muscle_group": "Abs/Obliques",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "20-30",
-          "sets": 3
-      },
-      {
-          "name": "Leg Raises",
-          "muscle_group": "Lower Abs",
-          "equipment": "Bodyweight",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "10-15",
-          "sets": 3
-      },
-      {
-          "name": "Hanging Leg Raise",
-          "muscle_group": "Lower Abs",
-          "equipment": "Bar",
-          "difficulty": "Advanced",
-          "type": "Strength",
-          "reps": "8-12",
-          "sets": 3
-      },
-      {
-          "name": "Russian Twist",
-          "muscle_group": "Obliques",
-          "equipment": "Dumbbell",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "20-30",
-          "sets": 3
-      },
-      {
-          "name": "Cable Woodchopper",
-          "muscle_group": "Obliques",
-          "equipment": "Cable",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "10-15",
-          "sets": 3
-      },
-      {
-          "name": "Ab Wheel Rollout",
-          "muscle_group": "Core",
-          "equipment": "Ab Wheel",
-          "difficulty": "Advanced",
-          "type": "Strength",
-          "reps": "6-12",
-          "sets": 3
-      },
-      {
-          "name": "Toe Touches",
-          "muscle_group": "Abs",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "15-20",
-          "sets": 3
-      },
-      {
-          "name": "Mountain Climbers",
-          "muscle_group": "Core",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Cardio",
-          "reps": "30-45 sec",
-          "sets": 3
-      },
-      {
-          "name": "Reverse Crunch",
-          "muscle_group": "Abs",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Strength",
-          "reps": "12-15",
-          "sets": 3
-      },
-      {
-          "name": "Side Plank",
-          "muscle_group": "Obliques",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Stability",
-          "reps": "20-40 sec",
-          "sets": 3
-      },
-      {
-          "name": "Weighted Sit-Up",
-          "muscle_group": "Abs",
-          "equipment": "Dumbbell",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "10-15",
-          "sets": 3
-      },
-      {
-          "name": "Cable Crunch",
-          "muscle_group": "Abs",
-          "equipment": "Cable",
-          "difficulty": "Intermediate",
-          "type": "Strength",
-          "reps": "10-15",
-          "sets": 3
-      },
-      {
-          "name": "Dead Bug",
-          "muscle_group": "Core",
-          "equipment": "Bodyweight",
-          "difficulty": "Beginner",
-          "type": "Stability",
-          "reps": "10-20",
-          "sets": 3
-      }
+    {"name": "Skull Crusher", "muscle_group": "Triceps", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Tricep Pushdown", "muscle_group": "Triceps", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+    {"name": "Overhead Tricep Extension", "muscle_group": "Triceps", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
+
+    {"name": "Farmer Carry", "muscle_group": "Shoulders", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "20-40m", "sets": 3},
+    {"name": "Suitcase Carry", "muscle_group": "Core", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "20-40m", "sets": 3},
+
+    {"name": "Scapular Push-Up", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "10-20", "sets": 3},
+    {"name": "Scapular Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Beginner", "type": "Strength", "reps": "8-15", "sets": 3},
+    {"name": "Wall Slide", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Mobility", "reps": "10-15", "sets": 3},
+    {"name": "Banded External Rotation", "muscle_group": "Shoulders", "equipment": "Bands", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Banded Internal Rotation", "muscle_group": "Shoulders", "equipment": "Bands", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+
+    {"name": "Prone T Raise", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Prone Y Raise", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+    {"name": "Prone W Raise", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+
+    {"name": "Single Arm Cable Row", "muscle_group": "Back", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
+    {"name": "Single Arm Lat Pulldown", "muscle_group": "Back", "equipment": "Cable", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+
+    {"name": "Machine Chest Press", "muscle_group": "Chest", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Pec Deck Fly", "muscle_group": "Chest", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+
+    {"name": "Rear Delt Machine Fly", "muscle_group": "Shoulders", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+
+    {"name": "Cable Lateral Raise", "muscle_group": "Shoulders", "equipment": "Cable", "difficulty": "Intermediate", "type": "Strength", "reps": "12-15", "sets": 3},
+    {"name": "Cable Face Pull", "muscle_group": "Shoulders", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+
+    {"name": "Push-Up Plus", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "10-15", "sets": 3},
+
+    {"name": "Decline Dumbbell Press", "muscle_group": "Chest", "equipment": "Dumbbells", "difficulty": "Intermediate", "type": "Strength", "reps": "6-10", "sets": 3},
+    {"name": "Incline Dumbbell Press", "muscle_group": "Chest", "equipment": "Dumbbells", "difficulty": "Beginner", "type": "Strength", "reps": "8-12", "sets": 3},
+
+    {"name": "Swimmer Band Pull", "muscle_group": "Back", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+    {"name": "Dryland Freestyle Catch Pull", "muscle_group": "Back", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+    {"name": "Dryland Butterfly Pull", "muscle_group": "Back", "equipment": "Bands", "difficulty": "Intermediate", "type": "Endurance", "reps": "12-20", "sets": 3},
+    {"name": "Dryland Breaststroke Out Sweep", "muscle_group": "Chest", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+    {"name": "Dryland Breaststroke In Sweep", "muscle_group": "Back", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+
+    {"name": "Straight Arm Band Press", "muscle_group": "Chest", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+    {"name": "Band Tricep Kickback", "muscle_group": "Triceps", "equipment": "Bands", "difficulty": "Beginner", "type": "Strength", "reps": "12-20", "sets": 3},
+
+    {"name": "Isometric Pull-Up Hold", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Advanced", "type": "Strength", "reps": "10-20s", "sets": 3},
+    {"name": "Isometric Push-Up Hold", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Advanced", "type": "Strength", "reps": "20-40s", "sets": 3},
+
+    {"name": "Towel Grip Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Advanced", "type": "Strength", "reps": "3-6", "sets": 3},
+    {"name": "Towel Row", "muscle_group": "Back", "equipment": "Bodyweight", "difficulty": "Intermediate", "type": "Strength", "reps": "10-15", "sets": 3},
+
+    {"name": "Banded Lat Isometric Hold", "muscle_group": "Back", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-30s", "sets": 3},
+
+    {"name": "Reverse Grip Lat Pulldown", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+    {"name": "Mid Row Machine", "muscle_group": "Back", "equipment": "Machine", "difficulty": "Beginner", "type": "Strength", "reps": "10-12", "sets": 3},
+
+    {"name": "Cable Chest Fly", "muscle_group": "Chest", "equipment": "Cable", "difficulty": "Beginner", "type": "Strength", "reps": "10-15", "sets": 3},
+
+    {"name": "Single Arm Landmine Press", "muscle_group": "Shoulders", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "6-12", "sets": 3},
+    {"name": "Landmine Row", "muscle_group": "Back", "equipment": "Barbell", "difficulty": "Intermediate", "type": "Strength", "reps": "8-12", "sets": 3},
+
+    {"name": "Renegade Row", "muscle_group": "Back", "equipment": "Dumbbells", "difficulty": "Advanced", "type": "Strength", "reps": "6-10", "sets": 3},
+
+    {"name": "Eccentric Pull-Up", "muscle_group": "Back", "equipment": "Bar", "difficulty": "Intermediate", "type": "Strength", "reps": "3-6", "sets": 3},
+    {"name": "Eccentric Push-Up", "muscle_group": "Chest", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "6-10", "sets": 3},
+
+    {"name": "Swimmer Scap Squeeze", "muscle_group": "Back", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+    {"name": "Prone Swimmer", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Endurance", "reps": "10-20", "sets": 3},
+
+    {"name": "Banded Streamline Press", "muscle_group": "Shoulders", "equipment": "Bands", "difficulty": "Beginner", "type": "Endurance", "reps": "15-25", "sets": 3},
+    {"name": "Streamline Hold", "muscle_group": "Shoulders", "equipment": "Bodyweight", "difficulty": "Beginner", "type": "Strength", "reps": "20-40s", "sets": 3}
   ]
+  
 }

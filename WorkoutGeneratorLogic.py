@@ -2,7 +2,11 @@ import streamlit as st
 import json
 import random
 
-# Load database
+st.set_page_config(
+    page_title="Exercise Planner",
+    page_icon="🏋️"
+)
+
 with open("data/exercises.json", "r") as f:
     exercises_db = json.load(f)
 
@@ -39,7 +43,7 @@ def generate_workout(workout_type, difficulty='Beginner', equipment='Any', muscl
 
 # ---------------- UI ---------------- #
 
-st.title("💪 Workout Generator")
+st.title("Workout Generator")
 st.write("Generate personalized workouts based on your preference.")
 
 # Workout type
@@ -82,7 +86,7 @@ if st.button("Generate Workout"):
         muscles_selected if len(muscles_selected) > 0 else None
     )
 
-    st.subheader("🔥 Your Workout Plan")
+    st.subheader("Workout Plan:")
 
     if len(workout) == 0:
         st.error("No exercises match your filters. Try changing difficulty or equipment.")

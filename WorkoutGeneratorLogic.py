@@ -10,14 +10,14 @@ st.set_page_config(
 with open("data/exercises.json", "r") as f:
     exercises_db = json.load(f)
 
-def generate_workout(workout_type, difficulty='Beginner', equipment='Any', muscles_selected=None):
+def generate_workout(workout_type, difficulty='Beginner', equipment=None, muscles_selected=None):
     exercises = exercises_db[workout_type]
 
-    # Equipment filtering
-    if equipment != "Any":
+    # Equipment filtering (multi-select)
+    if equipment:  # equipment is now a list
         exercises = [
             ex for ex in exercises
-            if ex["equipment"] == equipment or ex["equipment"] == "Bodyweight"
+            if ex["equipment"] in equipment or ex["equipment"] == "Bodyweight"
         ]
 
     # Difficulty filtering (Beginner can see all)
@@ -58,13 +58,14 @@ difficulty = st.selectbox(
     ["Beginner", "Intermediate", "Advanced"]
 )
 
-# AUTO-DETECT EQUIPMENT from JSON
+# EQUIPMENT → MULTISELECT (same list as before)
 all_equipment = sorted(
     set(ex["equipment"] for ex in exercises_db[workout_type])
 )
-equipment = st.selectbox(
+
+equipment = st.multiselect(
     "Available equipment:",
-    ["Any"] + all_equipment
+    all_equipment
 )
 
 # Auto-detect muscle groups for this workout type
@@ -82,7 +83,7 @@ if st.button("Generate Workout"):
     workout = generate_workout(
         workout_type,
         difficulty,
-        equipment,
+        equipment if len(equipment) > 0 else None,
         muscles_selected if len(muscles_selected) > 0 else None
     )
 
